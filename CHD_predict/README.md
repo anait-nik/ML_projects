@@ -19,9 +19,9 @@ Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Cat Boo
 ## Results
 Best ML model is Random Forest Classifier:
 
-ROC AUC score: 0.95
-Accuracy: 0.88
-Precision: 0.90
-Recall: 0.87
-F1: 0.88
-Specificity 0.90
+ROC AUC score: 0.95  
+Accuracy: 0.88  
+Precision: 0.90  
+Recall: 0.87  
+F1: 0.88  
+Specificity 0.90. 
